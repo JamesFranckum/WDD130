@@ -1,0 +1,187 @@
+.dongle-regular {
+    font-family: "Dongle", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 100px;
+  }
+.dynapuff{
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 5%;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 200;
+  }
+.knewave-regular {
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+head{
+    text-align: center;
+}
+h4{
+    padding-bottom: 20px;
+}
+h1, h4{
+    font-family: "DynaPuff", sans-serif;
+}
+body{
+    background-color: #a9c4bb;
+    color: #032a2f;
+    font-family: "Dongle", sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin: 0;
+}
+header{
+    background-color: #a9c4bb;
+    color: #032a2f;
+    text-align: left;
+}
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav a{
+    text-align: 0 auto;
+    color: #032a2f;
+    background-color: #a9c4bb;
+    text-decoration: none;
+    padding: 35px;
+}
+nav a:hover{
+    background-color: #032a2f;
+    color: #a9c4bb;
+    text-decoration: none;
+}
+#hero-img{
+    background-color: aliceblue;
+    background-image: linear-gradient(blue, #a9c4bb);
+}
+.home-title{
+    color: #032a2f;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px;
+}
+#hero-msg h1{
+    margin: 0 auto;
+    text-align: center;
+}
+#hero-msg h4{
+    margin: 0 auto;
+    text-align: center;
+    color: #032a2f;
+}
+.button-box{
+    margin: 0 auto;
+    text-align: center;
+}
+#background{
+    background-color: #032a2f;
+    height: 725px;
+}
+.book{
+    background-color: #a9c4bb;
+    color: #032a2f;
+    text-decoration: none;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border: 7px #032a2f solid;
+    border-radius: 7px;
+}
+.join{
+    background-color: #032a2f;
+    color: #a9c4bb;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border: 10px #032a2f solid;
+}
+.join:hover{
+    color: #eb8d2d;
+    font-weight: bold;
+    background-color: #a9c4bb;
+    border: 7px #eb8d2d solid;
+    border-radius: 7px;
+}
+.book:hover{
+    background-color: #a9c4bb;
+    color: #eb8d2d;
+    font-weight: bold;
+    border: 7px #eb8d2d solid;
+    border-radius: 7px;
+}
+.msg{
+    background-color: #032a2f;
+    text-align: center;
+    padding: 35px;
+}
+.msg h2{
+    color: #a9c4bb;
+}
+.msg p{
+    color: #a9c4bb;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+footer{
+    background-color: #032a2f;
+    color: #a9c4bb;
+    padding: 25px 50px;
+}
+footer a{
+    color: #a9c4bb;
+    text-decoration: none;
+    background-color: #032a2f;
+}
+footer .social img{
+    padding-top: 15px;
+}
+footer a:hover{
+    color: #032a2f;
+    background-color: #a9c4bb;
+}
+.icon{
+    width: 80px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+}
+#hero-img{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.logo{
+    width: 80px;
+    padding-bottom: 22px;
+}
+#logo_link{
+    padding-top: 5px;
+}
+.rivers-card{
+    text-align: center;
+    margin: 200px 0;
+}
+.card-img{
+    border: 7px #032a2f solid;
+    border-radius: 7px;
+}
+.camping-card{
+    text-align: center;
+    margin: 200px 0;
+}
+.rapids-card{
+    text-align: center;
+    margin: 200px 0;
+}

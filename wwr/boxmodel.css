@@ -1,0 +1,33 @@
+body{
+    background: rgb(248, 255, 154)
+}
+.qbox1, .qbox2, .qbox3{
+
+}
+
+.qbox1{
+    border-radius: 10px;
+    margin: 20px;
+    border: 15px dotted skyblue;
+    padding: 10px 5px;
+    width: 500px;
+    font-family: 'tangerine', serif;
+    background: rgb(255, 255, 92)
+}
+
+.qbox2{
+    border-radius: 20px;
+    margin: 21px;
+    border: 15px dashed rgb(255, 128, 230);
+    padding: 10px 5px;
+    width: 500px;
+    background: rgb(255, 222, 92)
+}
+
+.qbox3{
+    margin: 20px;
+    border: 15px solid rgb(135, 235, 153);
+    padding: 10px 5px;
+    width: 500px;
+    background: mintcream
+}
