@@ -1,0 +1,54 @@
+/*The colors Ill use are 505D1E dark green, B8C8A5 light green, 151F1F dark grey, 414F4B grey, BC4749 redish*/
+/*This section is my fonts and other add ins to the HTML page*/
+.pacifico-regular {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.nunito{
+    font-family: "Nunito", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.playfair-display{
+    font-family: "playfair display", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+/*This section is for my text*/
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-color: #B8C8A5;
+    color: #032a2f;
+    font-family: "playfair display", serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: "Pacifico", serif;
+}
+h2{
+    font-family: "Pacifico", serif;
+}
+h3{
+    font-family: "Nunito", serif;
+}
+h4{
+    font-family: "Nunito", serif;
+}
+p{
+    font-family: "Nunito", serif;
+}
+/*This section is for an images*/
+.card-img{
+    width: 300px;
+    height: 300px;
+    border: #151f1f;
+    border-radius: 7px;
+}
