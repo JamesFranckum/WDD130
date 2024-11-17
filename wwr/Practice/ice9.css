@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/**When you add just an * in front of somthing in css it will affect all of the elements in the html file**/
+#wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px 2fr 4fr 1fr;
+}
+/**In Margins you can do negatives, but you can not do this with padding.  This is how you get images to over lap**/
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+nav ul{
+    display: grid;
+    columns: 1fr repeat 6;
+}
+nav li{
+    margin: 15%;
+    height: 90%;
+    width: 90%;
+    border-radius: 20px;
+    background: white;
+    border: 2px black;
+    overflow:
+}
+/**In an element that contains things you can use the overflow to either hide, scroll to it, or show it all. this works when a picture is in a box but is flowing out and leaving said box**/
+nav img{
+    width: 300px;
+    height: 200Px;
+}
+/**Inside the box of this challenge you will create a base tag that will be at the base of the box, make three columns and make it pretty**/
+.base{
+    display: grid;
+    columns: 1fr repeat 2;
+}

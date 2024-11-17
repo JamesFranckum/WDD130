@@ -47,8 +47,8 @@ p{
 }
 /*This section is for an images*/
 .card-img{
-    width: 300px;
-    height: 300px;
+    width: 800px;
+    height: 700px;
     border: #151f1f;
     border-radius: 7px;
 }
