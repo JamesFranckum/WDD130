@@ -1,0 +1,102 @@
+.dongle-regular {
+    font-family: "Dongle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100;
+}
+.dynapuff{
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 5;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 200;
+}
+.knewave-regular {
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+head{
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    color: #032a2f;
+    background-color: #a9c4bb;
+    text-decoration: none;
+    padding: 35px;
+}
+nav a:hover{
+    background-color: #032a2f;
+    color: #a9c4bb;
+    text-decoration: none;
+}
+h4{
+    padding-bottom: 20px;
+}
+body{
+    background-color: #a9c4bb;
+    color: #032a2f;
+    font-family: "Dongle", sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin: 0;
+}
+header{
+    display: grid;
+    grid-template-columns: 150px auto;
+    background-color: #a9c4bb;
+    color: #032a2f;
+    text-align: left;
+}
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.home-title{
+    color: #032a2f;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px;
+}
+p{
+    font-size: 30px;
+}
+h2{
+    font-size: 50px;
+}
+#background{
+    background-color: #032a2f;
+    height: 725px;
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
+footer{
+    background-color: #032a2f;
+    color: #a9c4bb;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer a{
+    color: #a9c4bb;
+    text-decoration: none;
+    background-color: #032a2f;
+}
+footer .social img{
+    padding-top: 15px;
+}
+footer a:hover{
+    color: #032a2f;
+    background-color: #a9c4bb;
+}
